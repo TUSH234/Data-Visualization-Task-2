@@ -1,0 +1,51 @@
+Row ID,Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Customer Name,Segment,Country,City,State,Postal Code,Region,Product ID,Category,Sub-Category,Product Name,Sales,Quantity,Discount,Profit
+1,US-2016-395519,6/3/2016,6/10/2016,Second Class,C31917,David Wilson,Home Office,United States,New York,California,45735,East,FUR-BO-992637,Furniture,Bookcases,Bookcases - Model 120,15.03,5,0,7.1
+2,CA-2019-911960,11/17/2016,11/23/2016,Same Day,C13867,John Smith,Consumer,United States,Chicago,Texas,52560,South,OFF-ST-407403,Office Supplies,Storage,Storage - Model 220,724.33,3,0.2,14.53
+3,CA-2019-297254,5/22/2016,5/24/2016,Same Day,C95003,Emily Davis,Home Office,United States,Houston,Illinois,21866,East,OFF-PA-523789,Office Supplies,Paper,Paper - Model 757,347.37,8,0.1,-19
+4,US-2018-240881,11/2/2017,11/8/2017,Standard Class,C65512,Sarah Johnson,Corporate,United States,Miami,Florida,59843,South,FUR-BO-287375,Furniture,Bookcases,Bookcases - Model 574,706.84,5,0.1,-75.26
+5,US-2016-189150,5/17/2019,5/22/2019,First Class,C40842,Sarah Johnson,Home Office,United States,Houston,Illinois,90422,East,OFF-BI-784937,Office Supplies,Binders,Binders - Model 652,893.18,9,0,333.49
+6,CA-2017-226199,11/26/2019,11/27/2019,First Class,C91800,John Smith,Corporate,United States,New York,California,22122,West,TEC-CO-973100,Technology,Copiers,Copiers - Model 637,715.21,4,0.4,-210.88
+7,US-2016-859387,2/2/2017,2/9/2017,Second Class,C11034,Sarah Johnson,Consumer,United States,Chicago,Illinois,92150,South,OFF-BI-403047,Office Supplies,Binders,Binders - Model 705,22.38,2,0.2,-3.57
+8,CA-2018-407388,11/9/2018,11/12/2018,Same Day,C48972,Sarah Johnson,Home Office,United States,Houston,Texas,64344,South,FUR-FU-964639,Furniture,Furnishings,Furnishings - Model 302,49.92,8,0.3,-2.48
+9,CA-2017-137866,3/3/2016,3/5/2016,Second Class,C10068,David Wilson,Consumer,United States,Chicago,New York,10264,West,FUR-TA-604219,Furniture,Tables,Tables - Model 895,683.81,7,0.5,-12.85
+10,CA-2018-799416,11/21/2018,11/26/2018,Same Day,C90171,Sarah Johnson,Corporate,United States,Chicago,Texas,46770,Central,FUR-TA-191093,Furniture,Tables,Tables - Model 978,682.52,5,0.4,-204.74
+11,US-2017-434740,2/13/2016,2/17/2016,Same Day,C32086,David Wilson,Consumer,United States,Los Angeles,New York,46581,South,FUR-FU-508676,Furniture,Furnishings,Furnishings - Model 144,624.99,9,0.5,-56.55
+12,CA-2019-175880,6/17/2019,6/20/2019,First Class,C31500,Emily Davis,Corporate,United States,Los Angeles,New York,30626,South,OFF-BI-210566,Office Supplies,Binders,Binders - Model 965,407.48,3,0.3,90.31
+13,CA-2016-468885,1/25/2018,1/27/2018,Second Class,C74522,Emily Davis,Consumer,United States,Miami,New York,89410,West,FUR-FU-390075,Furniture,Furnishings,Furnishings - Model 586,758.98,6,0.2,-218.41
+14,CA-2016-319346,4/12/2019,4/18/2019,First Class,C18926,David Wilson,Home Office,United States,New York,California,91989,South,TEC-CO-779768,Technology,Copiers,Copiers - Model 294,926.65,10,0.4,217.42
+15,US-2019-177646,3/12/2018,3/13/2018,Same Day,C93988,Sarah Johnson,Home Office,United States,Los Angeles,Texas,25728,Central,FUR-CH-254999,Furniture,Chairs,Chairs - Model 329,200.96,5,0,2.78
+16,CA-2017-350561,5/25/2018,5/27/2018,First Class,C88061,Emily Davis,Corporate,United States,Miami,California,95353,South,OFF-AP-469176,Office Supplies,Appliances,Appliances - Model 256,64.84,8,0.2,3.05
+17,US-2019-246111,5/2/2018,5/9/2018,First Class,C60258,John Smith,Corporate,United States,Miami,New York,55576,East,TEC-MA-974099,Technology,Machines,Machines - Model 429,147.01,4,0.3,15.67
+18,CA-2019-567623,6/6/2019,6/12/2019,First Class,C51218,Emily Davis,Home Office,United States,Chicago,Illinois,67861,West,FUR-FU-541874,Furniture,Furnishings,Furnishings - Model 345,149,6,0.3,59.64
+19,CA-2017-918255,2/18/2019,2/23/2019,Same Day,C87144,Michael Brown,Consumer,United States,Los Angeles,Florida,44825,West,FUR-BO-947184,Furniture,Bookcases,Bookcases - Model 483,338.81,9,0.2,169.28
+20,US-2016-266972,7/1/2018,7/6/2018,First Class,C38330,John Smith,Home Office,United States,New York,California,30696,Central,FUR-TA-664641,Furniture,Tables,Tables - Model 974,368.01,2,0.5,121.99
+21,US-2018-341664,9/11/2017,9/12/2017,Same Day,C69627,Sarah Johnson,Consumer,United States,Miami,New York,44864,West,OFF-PA-556048,Office Supplies,Paper,Paper - Model 404,913.99,3,0.1,26.6
+22,CA-2018-356128,5/28/2016,6/1/2016,First Class,C38857,Emily Davis,Home Office,United States,Houston,New York,95049,East,FUR-FU-783158,Furniture,Furnishings,Furnishings - Model 527,992.26,10,0.2,350.2
+23,US-2017-568416,2/14/2017,2/17/2017,Standard Class,C78992,John Smith,Home Office,United States,Houston,Florida,46996,Central,OFF-ST-513288,Office Supplies,Storage,Storage - Model 977,528.43,4,0.2,219.31
+24,US-2017-179038,11/28/2018,12/3/2018,First Class,C66826,David Wilson,Consumer,United States,Miami,New York,22564,South,FUR-TA-537092,Furniture,Tables,Tables - Model 541,752.51,3,0.2,243.79
+25,US-2016-563462,11/11/2018,11/17/2018,Same Day,C87302,John Smith,Consumer,United States,New York,Illinois,81887,Central,FUR-BO-745110,Furniture,Bookcases,Bookcases - Model 921,119.62,6,0.5,-3.05
+26,US-2016-997755,8/7/2019,8/10/2019,Standard Class,C10955,Michael Brown,Consumer,United States,Chicago,California,21961,East,FUR-BO-565944,Furniture,Bookcases,Bookcases - Model 675,364.09,7,0,64.33
+27,CA-2016-757284,8/17/2017,8/22/2017,Standard Class,C46250,Sarah Johnson,Consumer,United States,Chicago,New York,94648,Central,FUR-BO-460126,Furniture,Bookcases,Bookcases - Model 345,410.07,5,0.2,19.34
+28,US-2016-193102,3/8/2017,3/13/2017,First Class,C52238,Sarah Johnson,Corporate,United States,Miami,California,82778,West,FUR-FU-359008,Furniture,Furnishings,Furnishings - Model 892,614.98,1,0.3,197.96
+29,US-2017-688532,5/5/2018,5/10/2018,Standard Class,C57672,David Wilson,Corporate,United States,Los Angeles,Texas,64818,East,TEC-PH-148231,Technology,Phones,Phones - Model 805,572.8,8,0.2,96.13
+30,US-2018-871801,6/15/2016,6/18/2016,Second Class,C58233,David Wilson,Corporate,United States,Chicago,Florida,85018,West,OFF-AP-935254,Office Supplies,Appliances,Appliances - Model 706,827.66,3,0.1,-71.11
+31,US-2018-766064,1/17/2016,1/23/2016,First Class,C63159,Emily Davis,Home Office,United States,Chicago,New York,71921,West,FUR-CH-389524,Furniture,Chairs,Chairs - Model 759,183.88,5,0.2,57.41
+32,US-2018-365823,11/6/2018,11/13/2018,Same Day,C55271,John Smith,Consumer,United States,New York,California,94410,West,OFF-PA-543734,Office Supplies,Paper,Paper - Model 951,848.12,8,0.2,39.64
+33,US-2016-517039,11/28/2016,12/5/2016,Standard Class,C18252,John Smith,Home Office,United States,Chicago,New York,62634,West,TEC-CO-697099,Technology,Copiers,Copiers - Model 583,649.29,2,0.5,-164.37
+34,US-2017-973440,9/22/2018,9/29/2018,Same Day,C42031,David Wilson,Consumer,United States,New York,Illinois,99005,Central,TEC-CO-339172,Technology,Copiers,Copiers - Model 883,676.2,10,0.4,218.3
+35,CA-2016-921756,8/19/2018,8/24/2018,First Class,C83579,John Smith,Corporate,United States,Chicago,Texas,91810,Central,FUR-FU-738675,Furniture,Furnishings,Furnishings - Model 406,881.19,2,0.2,352.03
+36,CA-2016-206949,6/14/2019,6/21/2019,Standard Class,C38238,David Wilson,Consumer,United States,Los Angeles,Texas,44468,Central,TEC-MA-113141,Technology,Machines,Machines - Model 219,935.46,6,0.2,256.13
+37,CA-2016-527998,8/14/2017,8/20/2017,Same Day,C16413,Sarah Johnson,Corporate,United States,Los Angeles,Illinois,45158,South,TEC-PH-591462,Technology,Phones,Phones - Model 696,167.02,6,0,-36.6
+38,US-2019-548462,12/26/2019,1/2/2020,Same Day,C79440,Michael Brown,Home Office,United States,Houston,New York,45408,West,FUR-CH-448329,Furniture,Chairs,Chairs - Model 465,170.23,6,0.4,67.01
+39,CA-2017-960007,4/27/2019,5/3/2019,First Class,C77107,David Wilson,Consumer,United States,New York,Texas,73978,West,TEC-AC-188910,Technology,Accessories,Accessories - Model 236,303.07,3,0.1,-19.15
+40,CA-2018-780619,3/23/2019,3/29/2019,First Class,C87767,Michael Brown,Consumer,United States,New York,Texas,63674,West,TEC-AC-164004,Technology,Accessories,Accessories - Model 279,906.93,6,0.3,216.76
+41,US-2018-942492,11/22/2016,11/23/2016,Standard Class,C64589,Michael Brown,Consumer,United States,Miami,New York,37905,Central,TEC-MA-185614,Technology,Machines,Machines - Model 882,140.7,1,0.5,-39.4
+42,US-2017-870878,5/11/2017,5/15/2017,First Class,C86801,John Smith,Consumer,United States,New York,California,67300,East,OFF-ST-213741,Office Supplies,Storage,Storage - Model 727,754.32,5,0,-211.79
+43,CA-2017-818942,3/24/2019,3/31/2019,Same Day,C34459,John Smith,Home Office,United States,New York,California,87148,South,FUR-BO-125457,Furniture,Bookcases,Bookcases - Model 148,874,6,0.2,326.99
+44,CA-2019-799071,4/13/2016,4/20/2016,Second Class,C31849,John Smith,Home Office,United States,Miami,California,58027,West,FUR-FU-325093,Furniture,Furnishings,Furnishings - Model 170,220.09,1,0,-25.05
+45,CA-2018-797859,10/23/2016,10/28/2016,Standard Class,C39662,David Wilson,Home Office,United States,Houston,Illinois,17496,Central,TEC-PH-333843,Technology,Phones,Phones - Model 102,112.99,4,0.2,28.22
+46,US-2019-529194,3/17/2017,3/18/2017,Standard Class,C44142,Sarah Johnson,Home Office,United States,Los Angeles,Florida,16209,South,FUR-TA-573691,Furniture,Tables,Tables - Model 234,203.36,5,0.3,35.78
+47,CA-2017-367678,12/18/2019,12/19/2019,Second Class,C26322,John Smith,Home Office,United States,Chicago,California,19966,Central,FUR-TA-695047,Furniture,Tables,Tables - Model 254,842.09,5,0.2,-126.81
+48,CA-2017-343922,11/13/2018,11/16/2018,Second Class,C24683,David Wilson,Corporate,United States,Los Angeles,New York,70340,South,TEC-AC-699414,Technology,Accessories,Accessories - Model 337,425.06,8,0.4,142.75
+49,US-2017-402356,5/1/2017,5/2/2017,First Class,C25030,Sarah Johnson,Consumer,United States,New York,New York,78901,East,FUR-BO-836283,Furniture,Bookcases,Bookcases - Model 441,396.32,1,0,138.76
+50,US-2017-625743,12/24/2017,12/27/2017,First Class,C56298,Emily Davis,Consumer,United States,Chicago,Florida,84990,West,TEC-CO-702896,Technology,Copiers,Copiers - Model 540,864.57,6,0.1,84.74
